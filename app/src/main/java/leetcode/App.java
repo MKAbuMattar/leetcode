@@ -3,13 +3,12 @@
  */
 package leetcode;
 
-
-import leetcode.ZigzagConversion.Solution;
+import leetcode.ReverseInteger.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        System.out.println(sol.convert("PAYPALISHIRING", 3)); // out >> "PAHNAPLSIIGYIR"
+        System.out.println(sol.reverse(123)); // out >> "321"
     }
 }
