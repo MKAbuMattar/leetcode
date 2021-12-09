@@ -3,12 +3,13 @@
  */
 package leetcode;
 
-import leetcode.ReverseInteger.Solution;
+
+import leetcode.StringtoInteger.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        System.out.println(sol.reverse(123)); // out >> "321"
+        System.out.println(sol.myAtoi("4193 with words")); // out >> 4193
     }
 }

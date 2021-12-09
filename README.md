@@ -9,6 +9,7 @@
 5. [Longest Palindromic Substring](./app/src/main/java/leetcode/LongestPalindromicSubstring/Solution.java)
 6. [Zigzag Conversion](./app/src/main/java/leetcode/ZigzagConversion/Solution.java)
 7. [Reverse Integer](./app/src/main/java/leetcode/ReverseInteger/Solution.java)
+8. [String to Integer (atoi)](./app/src/main/java/leetcode/StringtoInteger/Solution.java)
 
 
 
