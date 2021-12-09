@@ -3,13 +3,12 @@
  */
 package leetcode;
 
-
-import leetcode.StringtoInteger.Solution;
+import leetcode.PalindromeNumber.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        System.out.println(sol.myAtoi("4193 with words")); // out >> 4193
+        System.out.println(sol.isPalindrome(121)); // out >> true
     }
 }

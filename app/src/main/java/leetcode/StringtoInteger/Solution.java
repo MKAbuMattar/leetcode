@@ -10,7 +10,8 @@ public class Solution {
         if (str.isEmpty()) {
             return 0;
         } else if (str.charAt(i) == '-') {
-            i++; sign = -1;
+            i++;
+            sign = -1;
         } else if (str.charAt(i) == '+') {
             i++;
         }

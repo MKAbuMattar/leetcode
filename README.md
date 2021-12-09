@@ -10,6 +10,7 @@
 6. [Zigzag Conversion](./app/src/main/java/leetcode/ZigzagConversion/Solution.java)
 7. [Reverse Integer](./app/src/main/java/leetcode/ReverseInteger/Solution.java)
 8. [String to Integer (atoi)](./app/src/main/java/leetcode/StringtoInteger/Solution.java)
+9. [Palindrome Number](./app/src/main/java/leetcode/PalindromeNumber/Solution.java)
 
 
 
