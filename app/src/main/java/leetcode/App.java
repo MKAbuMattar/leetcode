@@ -3,11 +3,13 @@
  */
 package leetcode;
 
-import leetcode.AddTwoNumbers.Solution;
+import leetcode.LongestSubstringWithoutRepeatingCharacters.Solution;
 
 public class App {
 
     public static void main(String[] args) {
-
+        Solution sol = new Solution();
+        String s = "abcabcbb";
+        System.out.println(sol.lengthOfLongestSubstring(s));
     }
 }
