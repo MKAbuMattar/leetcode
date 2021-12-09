@@ -4,14 +4,14 @@
 package leetcode;
 
 
-import leetcode.MedianofTwoSortedArrays.Solution;
+import leetcode.LongestPalindromicSubstring.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        int[] arr1 = {1,2};
-        int[] arr2 = {3,4};
-        System.out.println(sol.findMedianSortedArrays(arr1,arr2));
+
+        String s = "babad";
+        System.out.println(sol.longestPalindrome(s)); // out >> aba
     }
 }
