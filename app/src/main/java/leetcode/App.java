@@ -3,12 +3,12 @@
  */
 package leetcode;
 
-import leetcode.PalindromeNumber.Solution;
+import leetcode.RegularExpressionMatching.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        System.out.println(sol.isPalindrome(121)); // out >> true
+        System.out.println(sol.isMatch("aa","a")); // out >> false
     }
 }
