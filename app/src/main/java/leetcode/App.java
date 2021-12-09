@@ -4,14 +4,12 @@
 package leetcode;
 
 
-import leetcode.LongestPalindromicSubstring.Solution;
+import leetcode.ZigzagConversion.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-
-        String s = "babad";
-        System.out.println(sol.longestPalindrome(s)); // out >> aba
+        System.out.println(sol.convert("PAYPALISHIRING", 3)); // out >> "PAHNAPLSIIGYIR"
     }
 }
