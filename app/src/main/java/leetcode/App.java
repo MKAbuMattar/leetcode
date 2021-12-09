@@ -3,13 +3,15 @@
  */
 package leetcode;
 
-import leetcode.LongestSubstringWithoutRepeatingCharacters.Solution;
+
+import leetcode.MedianofTwoSortedArrays.Solution;
 
 public class App {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-        String s = "abcabcbb";
-        System.out.println(sol.lengthOfLongestSubstring(s));
+        int[] arr1 = {1,2};
+        int[] arr2 = {3,4};
+        System.out.println(sol.findMedianSortedArrays(arr1,arr2));
     }
 }
