@@ -7,7 +7,7 @@ public class Solution {
     private static final TreeMap<Integer, String> map = new TreeMap<>();
 
     static {
-        map.put(1,"I");
+        map.put(1, "I");
         map.put(5, "V");
         map.put(10, "X");
         map.put(50, "L");
