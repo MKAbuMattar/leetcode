@@ -19,4 +19,7 @@
 15. [3Sum](./app/src/main/java/leetcode/_3Sum/Solution.java)
 16. [3Sum Closest](./app/src/main/java/leetcode/_3SumClosest/Solution.java)
 17. [Letter Combinations of a Phone Number](./app/src/main/java/leetcode/LetterCombinationsofaPhoneNumber/Solution.java)
-69. [Sqrt(x)](./app/src/main/java/leetcode/SqrtX/Solution.java)
+
+69 [Sqrt(x)](./app/src/main/java/leetcode/SqrtX/Solution.java)
+
+75 [SortColors](./app/src/main/java/leetcode/SortColors/Solution.java)
