@@ -3,12 +3,9 @@
  */
 package leetcode;
 
-import leetcode.RegularExpressionMatching.Solution;
-
 public class App {
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.isMatch("aa","a")); // out >> false
+
     }
 }
