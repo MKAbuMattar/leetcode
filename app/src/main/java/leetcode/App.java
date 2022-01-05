@@ -3,9 +3,16 @@
  */
 package leetcode;
 
+import leetcode.ValidParentheses.Solution;
+
 public class App {
 
     public static void main(String[] args) {
 
+        Solution v = new Solution();
+
+        String s = "()[]{}";
+
+        System.out.println(v.isValid(s));
     }
 }

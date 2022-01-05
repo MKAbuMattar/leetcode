@@ -21,7 +21,7 @@
 17. [Letter Combinations of a Phone Number](./app/src/main/java/leetcode/LetterCombinationsofaPhoneNumber/Solution.java)
 18. [4Sum](./app/src/main/java/leetcode/FourSum/Solution.java)
 19. [Remove Nth Node From End of List](./app/src/main/java/leetcode/RemoveNthNodeFromEndofList/Solution.java)
-20. []()
+20. [Valid Parentheses](./app/src/main/java/leetcode/ValidParentheses/Solution.java)
 21. []()
 22. []()
 23. []()
