@@ -9,11 +9,11 @@ public class Solution {
 
     private boolean traverse(TreeNode node, long low, long high) {
 
-        if(node == null){
+        if (node == null) {
             return true;
         }
 
-        if(node.val <= low || node.val >= high){
+        if (node.val <= low || node.val >= high) {
             return false;
         }
 

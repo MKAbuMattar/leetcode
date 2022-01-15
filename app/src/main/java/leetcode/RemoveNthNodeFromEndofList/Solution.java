@@ -11,13 +11,13 @@ public class Solution {
         ListNode slow = temp;
         ListNode fast = head;
 
-        for (int i = 0; i<n; i++){
-            fast= fast.next;
+        for (int i = 0; i < n; i++) {
+            fast = fast.next;
         }
 
-        while(fast != null){
+        while (fast != null) {
             fast = fast.next;
-            slow= slow.next;
+            slow = slow.next;
         }
 
         assert slow.next != null;

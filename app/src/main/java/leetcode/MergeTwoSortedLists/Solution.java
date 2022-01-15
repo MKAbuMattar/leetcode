@@ -12,6 +12,7 @@ import leetcode.SinglyLinkedList.ListNode;
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 public class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null) {
