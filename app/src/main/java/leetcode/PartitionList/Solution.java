@@ -13,15 +13,15 @@ public class Solution {
 
         ListNode current = head;
 
-        while(current != null) {
-            if(current.val<x) {
-                leftPartition.next=new ListNode(current.val);
-                leftPartition=leftPartition.next;
+        while (current != null) {
+            if (current.val < x) {
+                leftPartition.next = new ListNode(current.val);
+                leftPartition = leftPartition.next;
             } else {
-                rightPartition.next=new ListNode(current.val);
-                rightPartition=rightPartition.next;
+                rightPartition.next = new ListNode(current.val);
+                rightPartition = rightPartition.next;
             }
-            current=current.next;
+            current = current.next;
         }
 
         leftPartition.next = rightHead.next;
