@@ -25,7 +25,7 @@
 21. [Merge Two Sorted Lists](./app/src/main/java/leetcode/MergeTwoSortedLists/Solution.java)
 22. [Generate Parentheses](./app/src/main/java/leetcode/GenerateParentheses/Solution.java)
 23. [Merge k Sorted Lists](./app/src/main/java/leetcode/MergeKSortedLists/Solution.java)
-24. []()
+24. [Swap Nodes in Pairs](./app/src/main/java/leetcode/SwapNodesInPairs/Solution.java)
 25. []()
 26. []()
 27. []()
