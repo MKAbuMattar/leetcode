@@ -28,7 +28,7 @@
 24. [Swap Nodes in Pairs](./app/src/main/java/leetcode/SwapNodesInPairs/Solution.java)
 25. [Reverse Nodes in k-Group](./app/src/main/java/leetcode/ReverseNodesInKGroup/Solution.java)
 26. [Remove Duplicates from Sorted Array](./app/src/main/java/leetcode/RemoveDuplicatesFromSortedArray/Solution.java)
-27. []()
+27. [Remove Element](./app/src/main/java/leetcode/RemoveElement/Solution.java)
 28. []()
 29. []()
 30. []()
