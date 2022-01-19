@@ -4,9 +4,14 @@
 package leetcode;
 
 
+import leetcode.ImplementStrStr.Solution;
+
 public class App {
 
     public static void main(String[] args) {
+        Solution so = new Solution();
+        String haystack = "hello", needle = "ll";
 
+        System.out.println(so.strStr(haystack, needle));
     }
 }
