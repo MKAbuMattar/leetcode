@@ -31,7 +31,7 @@
 27. [Remove Element](./app/src/main/java/leetcode/RemoveElement/Solution.java)
 28. [Implement strStr()](./app/src/main/java/leetcode/ImplementStrStr/Solution.java)
 29. [Divide Two Integers](./app/src/main/java/leetcode/DivideTwoIntegers/Solution.java)
-30. []()
+30. [Substring with Concatenation of All Words](./app/src/main/java/leetcode/SubstringWithConcatenationOfAllWords/Solution.java)
 31. []()
 32. []()
 33. []()
