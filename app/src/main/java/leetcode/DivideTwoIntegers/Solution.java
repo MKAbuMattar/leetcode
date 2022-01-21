@@ -8,19 +8,15 @@ public class Solution {
             }
         }
 
-        long a;
-        long b;
+        long a = dividend;
+        long b = divisor;
 
         if (dividend < 0) {
             a = -(long) dividend;
-        } else {
-            a = dividend;
         }
 
         if (divisor < 0) {
             b = -(long) divisor;
-        } else {
-            b = divisor;
         }
 
         int result = divide(a, b, 1);
