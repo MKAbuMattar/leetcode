@@ -33,7 +33,7 @@
 29. [Divide Two Integers](./app/src/main/java/leetcode/DivideTwoIntegers/Solution.java)
 30. [Substring with Concatenation of All Words](./app/src/main/java/leetcode/SubstringWithConcatenationOfAllWords/Solution.java)
 31. [Next Permutation](./app/src/main/java/leetcode/NextPermutation/Solution.java)
-32. []()
+32. [Longest Valid Parentheses](./app/src/main/java/leetcode/LongestValidParentheses/Solution.java)
 33. []()
 34. []()
 35. []()
