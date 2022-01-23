@@ -2,7 +2,7 @@
 
 ## Problem Lest
 
-1. [Two Sum](./app/src/main/java/leetcode/TwoSum/Solution.java) | [Test](./app/src/test/java/leetcode)
+1. [Two Sum](./app/src/main/java/leetcode/TwoSum/Solution.java) | [Test](./app/src/test/java/leetcode/TwoSum/SolutionTest.java)
 2. [Add Two Numbers](./app/src/main/java/leetcode/AddTwoNumbers/Solution.java) | [Test](./app/src/test/java/leetcode/AddTwoNumbers/SolutionTest.java)
 3. [Longest Substring Without Repeating Characters](./app/src/main/java/leetcode/LongestSubstringWithoutRepeatingCharacters/Solution.java)
    | [Test](./app/src/test/java/leetcode)
