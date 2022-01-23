@@ -3,7 +3,7 @@
 ## Problem Lest
 
 1. [Two Sum](./app/src/main/java/leetcode/TwoSum/Solution.java) | [Test](./app/src/test/java/leetcode)
-2. [Add Two Numbers](./app/src/main/java/leetcode/AddTwoNumbers/Solution.java) | [Test](./app/src/test/java/leetcode)
+2. [Add Two Numbers](./app/src/main/java/leetcode/AddTwoNumbers/Solution.java) | [Test](./app/src/test/java/leetcode/AddTwoNumbers/SolutionTest.java)
 3. [Longest Substring Without Repeating Characters](./app/src/main/java/leetcode/LongestSubstringWithoutRepeatingCharacters/Solution.java)
    | [Test](./app/src/test/java/leetcode)
 4. [Median of Two Sorted Arrays](./app/src/main/java/leetcode/MedianofTwoSortedArrays/Solution.java)
@@ -27,7 +27,8 @@
     | [Test](./app/src/test/java/leetcode)
 15. [3Sum](./app/src/main/java/leetcode/_3Sum/Solution.java)
     | [Test](./app/src/test/java/leetcode/_3Sum/SolutionTest.java)
-16. [3Sum Closest](./app/src/main/java/leetcode/_3SumClosest/Solution.java) | [Test](./app/src/test/java/leetcode/_3SumClosest/SolutionTest.java)
+16. [3Sum Closest](./app/src/main/java/leetcode/_3SumClosest/Solution.java)
+    | [Test](./app/src/test/java/leetcode/_3SumClosest/SolutionTest.java)
 17. [Letter Combinations of a Phone Number](./app/src/main/java/leetcode/LetterCombinationsofaPhoneNumber/Solution.java)
     | [Test](./app/src/test/java/leetcode)
 18. [4Sum](./app/src/main/java/leetcode/FourSum/Solution.java) | [Test](./app/src/test/java/leetcode)
