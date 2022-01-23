@@ -52,7 +52,7 @@
 28. [Implement strStr()](./app/src/main/java/leetcode/ImplementStrStr/Solution.java)
     | [Test](./app/src/test/java/leetcode)
 29. [Divide Two Integers](./app/src/main/java/leetcode/DivideTwoIntegers/Solution.java)
-    | [Test](./app/src/test/java/leetcode)
+    | [Test](./app/src/test/java/leetcode/DivideTwoIntegers/SolutionTest.java)
 30. [Substring with Concatenation of All Words](./app/src/main/java/leetcode/SubstringWithConcatenationOfAllWords/Solution.java)
     | [Test](./app/src/test/java/leetcode)
 31. [Next Permutation](./app/src/main/java/leetcode/NextPermutation/Solution.java)
