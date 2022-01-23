@@ -35,7 +35,7 @@ public class SolutionTest {
 
     @Test
     public void Example1() {
-        int[] nums = {-1,0,1,2,-1,-4};
+        int[] nums = {-1, 0, 1, 2, -1, -4};
         result = threeSumTest.threeSum(nums);
 
         tmp.add(list1);

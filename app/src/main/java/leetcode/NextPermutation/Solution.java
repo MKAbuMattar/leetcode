@@ -18,7 +18,7 @@ public class Solution {
         int minIdx = last + 1;
 
         for (int i = last + 1; i < nums.length; i++) {
-            if (nums[i] > nums[last] && nums[last] < nums[minIdx]){
+            if (nums[i] > nums[last] && nums[last] < nums[minIdx]) {
                 minIdx = i;
             }
         }
