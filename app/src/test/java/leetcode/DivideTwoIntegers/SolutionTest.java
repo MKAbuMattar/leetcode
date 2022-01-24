@@ -29,7 +29,7 @@ public class SolutionTest {
     public void Example2() {
         dividend = 7;
         divisor = -3;
-        result =  divideTest.divide(dividend, divisor);
+        result = divideTest.divide(dividend, divisor);
 
         assertEquals(-2, result);
     }

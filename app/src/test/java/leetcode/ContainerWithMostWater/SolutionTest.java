@@ -16,7 +16,7 @@ public class SolutionTest {
 
     @Test
     public void Example1() {
-       int[] height = {1,8,6,2,5,4,8,3,7};
+        int[] height = {1, 8, 6, 2, 5, 4, 8, 3, 7};
         result = maxAreaTest.maxArea(height);
 
         assertEquals(49, result);
@@ -24,7 +24,7 @@ public class SolutionTest {
 
     @Test
     public void Example2() {
-        int[] height = {1,1};
+        int[] height = {1, 1};
         result = maxAreaTest.maxArea(height);
 
         assertEquals(1, result);

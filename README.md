@@ -2,8 +2,10 @@
 
 ## Problem Lest
 
-1. [Two Sum](./app/src/main/java/leetcode/TwoSum/Solution.java) | [Test](./app/src/test/java/leetcode/TwoSum/SolutionTest.java)
-2. [Add Two Numbers](./app/src/main/java/leetcode/AddTwoNumbers/Solution.java) | [Test](./app/src/test/java/leetcode/AddTwoNumbers/SolutionTest.java)
+1. [Two Sum](./app/src/main/java/leetcode/TwoSum/Solution.java)
+   | [Test](./app/src/test/java/leetcode/TwoSum/SolutionTest.java)
+2. [Add Two Numbers](./app/src/main/java/leetcode/AddTwoNumbers/Solution.java)
+   | [Test](./app/src/test/java/leetcode/AddTwoNumbers/SolutionTest.java)
 3. [Longest Substring Without Repeating Characters](./app/src/main/java/leetcode/LongestSubstringWithoutRepeatingCharacters/Solution.java)
    | [Test](./app/src/test/java/leetcode)
 4. [Median of Two Sorted Arrays](./app/src/main/java/leetcode/MedianofTwoSortedArrays/Solution.java)
@@ -59,7 +61,8 @@
     | [Test](./app/src/test/java/leetcode)
 32. [Longest Valid Parentheses](./app/src/main/java/leetcode/LongestValidParentheses/Solution.java)
     | [Test](./app/src/test/java/leetcode)
-33. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
+33. [Search in Rotated Sorted Array](./app/src/main/java/leetcode/SearchInRotatedSortedArray/Solution.java)
+    | [Test](./app/src/test/java/leetcode/SearchInRotatedSortedArray/SolutionTest.java)
 34. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
 35. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
 36. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
