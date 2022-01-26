@@ -64,7 +64,7 @@
 33. [Search in Rotated Sorted Array](./app/src/main/java/leetcode/SearchInRotatedSortedArray/Solution.java)
     | [Test](./app/src/test/java/leetcode/SearchInRotatedSortedArray/SolutionTest.java)
 34. [Find First and Last Position of Element in Sorted Array](./app/src/main/java/leetcode/FindFirstAndLastPositionOfElementInSortedArray/Solution.java) | [Test](./app/src/test/java/leetcode/FindFirstAndLastPositionOfElementInSortedArray/SolutionTest.java)
-35. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
+35. [Search Insert Position](./app/src/main/java/leetcode/SearchInsertPosition/Solution.java) | [Test](./app/src/test/java/leetcode/SearchInsertPosition/SolutionTest.java)
 36. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
 37. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
 38. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
