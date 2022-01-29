@@ -66,7 +66,7 @@
 34. [Find First and Last Position of Element in Sorted Array](./app/src/main/java/leetcode/FindFirstAndLastPositionOfElementInSortedArray/Solution.java) | [Test](./app/src/test/java/leetcode/FindFirstAndLastPositionOfElementInSortedArray/SolutionTest.java)
 35. [Search Insert Position](./app/src/main/java/leetcode/SearchInsertPosition/Solution.java) | [Test](./app/src/test/java/leetcode/SearchInsertPosition/SolutionTest.java)
 36. [Valid Sudoku](./app/src/main/java/leetcode/ValidSudoku/Solution.java) | [Test](./app/src/test/java/leetcode/ValidSudoku/SolutionTest.java)
-37. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
+37. [Sudoku Solver](./app/src/main/java/leetcode/SudokuSolver/Solution.java) | [Test](./app/src/test/java/leetcode/SudokuSolver/SolutionTest.java)
 38. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
 39. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
 40. [](./app/src/main/java/leetcode) | [Test](./app/src/test/java/leetcode)
